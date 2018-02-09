@@ -25,8 +25,8 @@
 	<!-- Social Media -->
   	<meta property="og:image" content="http://www.filipemota.adv.br/view/images/facebook-compartilha-pages.png">
 	<meta property="og:image:type" content="image/jpeg">
-	<meta property="og:image:width" content="800">  
-	<meta property="og:image:height" content="600"> 
+	<meta property="og:image:width" content="1200">  
+	<meta property="og:image:height" content="630"> 
 </head>
 <body>
 
