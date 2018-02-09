@@ -20,7 +20,8 @@
 	<meta content='Filipe Mota - Advocacia' property='og:title'>
 	<meta content='http://www.filipemota.adv.br/' property='og:url'>
 	<meta content='site' property='og:type'>
- 
+ 	
+	<!-- Social Media -->
  	<meta property="og:image" content="http://www.filipemota.adv.br/view/images/post-facebook-site.png">
 	<meta property="og:image:type" content="image/jpeg">
 	<meta property="og:image:width" content="800"> /** PIXELS **/
