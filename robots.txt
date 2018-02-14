@@ -1,2 +1,3 @@
+# Please Mr. Google, do not index these links =)
 User-agent: *
-Disallow:
+Sitemap: http://www.meusite.com.br/sitemap.xml
