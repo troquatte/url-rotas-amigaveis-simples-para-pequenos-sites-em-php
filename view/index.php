@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<title>Rotas e url Amigável Simples</title>
+	<link rel="canonical" href="www.minhaempresa.com" />
     	<meta name="description" property='og:description' content="Bacharel em direito pela Faculdade Integrada Vianna Júnior em Juiz de Fora, pós-graduado em Direito e Processo do Trabalho e Direito Previdenciário pela Universidade Presbiteriana Mackenzie."> 
 	<meta content="cache" http-equiv="cache-control">
 	<meta content="pt-br" http-equiv="content-language">
